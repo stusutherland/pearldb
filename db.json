@@ -1,9 +1,86 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
+    "contractors": [
+        {
+            "contractorid": 1,
+            "name": "XYZ Corp",
+            "city": "West Orange",
+            "state": "NJ",
+            "disciplines": "HVAC; Plumbing; Electrical",
+            "rating": 0,
+            "certified": true
+        },
+        {
+            "contractorid": 2,
+            "name": "ABC Contracting",
+            "city": "East Orange",
+            "state": "NJ",
+            "disciplines": "HVAC; Plumbing; Electrical",
+            "rating": 0,
+            "certified": true
+        },
+        {
+            "contractorid": 3,
+            "name": "Residential Cooling Inc",
+            "city": "North Orange",
+            "state": "NJ",
+            "disciplines": "HVAC",
+            "rating": 0,
+            "certified": true
+        },
+        {
+            "contractorid": 4,
+            "name": "Electrical Solutions",
+            "city": "West Orange",
+            "state": "NJ",
+            "disciplines": "Electrical",
+            "rating": 0,
+            "certified": true
+        },
+        {
+            "contractorid": 5,
+            "name": "Light & Heat",
+            "city": "South Orange",
+            "state": "NJ",
+            "disciplines": "HVAC; Electrical",
+            "rating": 0,
+            "certified": true
+        },
+        {
+            "contractorid": 6,
+            "name": "123 Contracting",
+            "city": "East Orange",
+            "state": "NJ",
+            "disciplines": "HVAC; Plumbing; Electrical",
+            "rating": 0,
+            "certified": true
+        },
+        {
+            "contractorid": 7,
+            "name": "Arctic Frost Cooling",
+            "city": "North Orange",
+            "state": "NJ",
+            "disciplines": "HVAC",
+            "rating": 0,
+            "certified": true
+        },
+        {
+            "contractorid": 8,
+            "name": "Heating & More",
+            "city": "West Orange",
+            "state": "NJ",
+            "disciplines": "HVAC; Electrical",
+            "rating": 0,
+            "certified": true
+        },
+        {
+            "contractorid": 9,
+            "name": "Solar Pump",
+            "city": "South Orange",
+            "state": "NJ",
+            "disciplines": "Solar; HVAC; Electrical",
+            "rating": 0,
+            "certified": true
+        }
     ],
     "profile": {
       "name": "typicode"
