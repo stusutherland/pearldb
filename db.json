@@ -95,6 +95,10 @@
                     "longitude": -100.23243
                 }
             },
+<<<<<<< HEAD
+=======
+            "projecturl": "/project_details/1",
+>>>>>>> parent of f9cdd4b... Update db.json
             "icon": {
                 "icontype": "home",
                 "color": "red"
@@ -128,6 +132,10 @@
                     "longitude": -100.23243
                 }
             },
+<<<<<<< HEAD
+=======
+            "projecturl": "/project_details/2",
+>>>>>>> parent of f9cdd4b... Update db.json
             "icon": {
                 "icontype": "home",
                 "color": "red"
@@ -161,10 +169,15 @@
                     "longitude": -100.23243
                 }
             },
+<<<<<<< HEAD
+=======
+            "projecturl": "/project_details/3",
+>>>>>>> parent of f9cdd4b... Update db.json
             "icon": {
                 "color": "red",
                 "icontype": "home"
             },
+<<<<<<< HEAD
             "contacts": [
                 { "contactid": 198273, "first_name": "Emma", "last_name": "Frost", "email": "whitequeen@msn.com", "phone": "973-783-3848" }, 
                 { "contactid": 319827, "first_name": "Anna Marie", "last_name": "LeBeau", "email": "rogue@gmail.com", "phone": "917-969-3802" }], 
@@ -181,6 +194,69 @@
                     { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
                     { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
                 ]
+=======
+            "address": {
+                "street": "123 West Main Street",
+                "city": "Somewheresville",
+                "state": "PA",
+                "postal-code": "34834",
+                "location": {
+                    "latitude": 34.34343,
+                    "longitude": -100.23243
+                }
+            },
+            "projecturl": "/project_details/4",
+            "icon": {
+                "color": "red",
+                "icontype": "home"
+            }
+        },
+        {
+            "id": 5,
+            "customercontact": {
+                "customerid": 1237,
+                "first-name": "Peter",
+                "last-name": "Parker"
+            },
+            "address": {
+                "street": "123 East Hampton Drive",
+                "city": "Nowheresville",
+                "state": "PA",
+                "postal-code": "34834",
+                "location": {
+                    "latitude": 34.34343,
+                    "longitude": -100.23243
+                }
+            },
+            "projecturl": "/project_details/5",
+            "icon": {
+                "color": "red",
+                "icontype": "home"
+            }
+        },
+        {
+            "id": 6,
+            "customercontact": {
+                "customerid": 1238,
+                "first-name": "Peter",
+                "last-name": "Parker"
+            },
+            "address": {
+                "street": "123 Spiderville",
+                "city": "Neighborhood",
+                "state": "PA",
+                "postal-code": "34834",
+                "location": {
+                    "latitude": 34.34343,
+                    "longitude": -100.23243
+                }
+            },
+            "projecturl": "/project_details/6",
+            "icon": {
+                "color": "red",
+                "icontype": "home"
+            }
+>>>>>>> parent of f9cdd4b... Update db.json
         }
     ],
     "profile": {
