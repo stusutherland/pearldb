@@ -1,7 +1,7 @@
 {
     "contractors": [
         {
-            "contractorid": 1,
+            "id": 1,
             "name": "XYZ Corp",
             "city": "West Orange",
             "state": "NJ",
@@ -10,7 +10,7 @@
             "certified": true
         },
         {
-            "contractorid": 2,
+            "id": 2,
             "name": "ABC Contracting",
             "city": "East Orange",
             "state": "NJ",
@@ -19,7 +19,7 @@
             "certified": true
         },
         {
-            "contractorid": 3,
+            "id": 3,
             "name": "Residential Cooling Inc",
             "city": "North Orange",
             "state": "NJ",
@@ -28,7 +28,7 @@
             "certified": true
         },
         {
-            "contractorid": 4,
+            "id": 4,
             "name": "Electrical Solutions",
             "city": "West Orange",
             "state": "NJ",
@@ -37,7 +37,7 @@
             "certified": true
         },
         {
-            "contractorid": 5,
+            "id": 5,
             "name": "Light & Heat",
             "city": "South Orange",
             "state": "NJ",
@@ -46,7 +46,7 @@
             "certified": true
         },
         {
-            "contractorid": 6,
+            "id": 6,
             "name": "123 Contracting",
             "city": "East Orange",
             "state": "NJ",
@@ -55,7 +55,7 @@
             "certified": true
         },
         {
-            "contractorid": 7,
+            "id": 7,
             "name": "Arctic Frost Cooling",
             "city": "North Orange",
             "state": "NJ",
@@ -64,7 +64,7 @@
             "certified": true
         },
         {
-            "contractorid": 8,
+            "id": 8,
             "name": "Heating & More",
             "city": "West Orange",
             "state": "NJ",
@@ -73,7 +73,7 @@
             "certified": true
         },
         {
-            "contractorid": 9,
+            "id": 9,
             "name": "Solar Pump",
             "city": "South Orange",
             "state": "NJ",
