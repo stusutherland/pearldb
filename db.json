@@ -214,39 +214,6 @@
                     { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
                     { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
                 ]
-        },
-        {
-            "id": 5,
-            "address": {
-                "street": "123 East Hampton Drive",
-                "city": "Nowheresville",
-                "state": "PA",
-                "postal-code": "34834",
-                "location": {
-                    "latitude": 34.34343,
-                    "longitude": -100.23243
-                }
-            },
-            "icon": {
-                "color": "red",
-                "icontype": "home"
-            },
-            "contacts": [
-                { "contactid": 198273, "first_name": "Peter", "last_name": "Parker", "email": "spiderman@msn.com", "phone": "973-783-3848" }, 
-                { "contactid": 319827, "first_name": "Gwen", "last_name": "Stacey", "email": "spideysgirl@gmail.com", "phone": "917-969-3802" }], 
-                "next_task": { "date": "June 09, 2019", "upcoming_task": "Site visit; Present proposal for HVAC upgrade work", 
-                "contractor": { 
-                    "contractorid": 98349, "company_name": "XYZ Contracting" } 
-                }, 
-                "pearl_score": 721, 
-                "systems": [
-                    { "systemid": 1, "name": "Attic Insulation", "current_state": { "level": 3, "description": "R-57 Fiberglass - Loose Fill" }, "contractor_network_count": 25, "selected_contractor": 98349 }, 
-                    { "systemid": 2, "name": "Air Sealing", "current_state": { "level": 3, "description": "" }, "contractor_network_count": 25, "selected_contractor": null }, 
-                    { "systemid": 3, "name": "Furnace", "current_state": { "level": 3, "description": "Gas central furnace - 80.0" }, "contractor_network_count": 5, "selected_contractor": null }, 
-                    { "systemid": 4, "name": "Air Conditioning", "current_state": { "level": 3, "description": "Central AC - 10.00" }, "contractor_network_count": 25, "selected_contractor": null }, 
-                    { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
-                    { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
-                ]
         }
     ],
     "profile": {
