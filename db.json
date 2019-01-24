@@ -85,6 +85,11 @@
     "projects": [
         {
             "id": 1,
+            "customercontact": {
+                "customerid": 1234,
+                "first-name": "Kitty",
+                "last-name": "Pride"
+            },
             "address": {
                 "street": "970 Burnley Station Dr.",
                 "city": "Charlottesville",
@@ -95,48 +100,14 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/1",
+            "projecturl": "/projects/1",
             "icon": {
                 "icontype": "home",
                 "color": "red"
             },
             "contacts": [
-                { "contactid": 198273, "first_name": "Jean", "last_name": "Grey", "email": "darkphoenix@msn.com", "phone": "973-783-3848" }, 
-                { "contactid": 319827, "first_name": "Scott", "last_name": "Summers", "email": "cyclops@gmail.com", "phone": "917-969-3802" }], 
-                "next_task": { "date": "June 12, 2019", "upcoming_task": "Site visit; Present proposal for HVAC upgrade work", 
-                "contractor": { 
-                    "contractorid": 98349, "company_name": "XYZ Contracting" } 
-                }, 
-                "pearl_score": 721, 
-                "systems": [
-                    { "systemid": 1, "name": "Attic Insulation", "current_state": { "level": 3, "description": "R-57 Fiberglass - Loose Fill" }, "contractor_network_count": 25, "selected_contractor": 98349 }, 
-                    { "systemid": 2, "name": "Air Sealing", "current_state": { "level": 3, "description": "" }, "contractor_network_count": 25, "selected_contractor": null }, 
-                    { "systemid": 3, "name": "Furnace", "current_state": { "level": 3, "description": "Gas central furnace - 80.0" }, "contractor_network_count": 5, "selected_contractor": null }, 
-                    { "systemid": 4, "name": "Air Conditioning", "current_state": { "level": 3, "description": "Central AC - 10.00" }, "contractor_network_count": 25, "selected_contractor": null }, 
-                    { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
-                    { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
-                ]
-        },
-        {
-            "id": 2,
-            "address": {
-                "street": "1130 Applewood Rd.",
-                "city": "North Gardenia",
-                "state": "PA",
-                "postal-code": "19434",
-                "location": {
-                    "latitude": 34.34343,
-                    "longitude": -100.23243
-                }
-            },
-            "projecturl": "/project_details/2",
-            "icon": {
-                "icontype": "home",
-                "color": "red"
-            },
-            "contacts": [
-                { "contactid": 198273, "first_name": "Kitty", "last_name": "Pride", "email": "kittypride@msn.com", "phone": "973-783-3848" }, 
-                { "contactid": 319827, "first_name": "Charles", "last_name": "Xavier", "email": "professorx@gmail.com", "phone": "917-969-3802" }], 
+                { "contactid": 198273, "first_name": "Lisa", "last_name": "Sutherland", "email": "lisachiapinelli@msn.com", "phone": "973-783-3848" }, 
+                { "contactid": 319827, "first_name": "Stu", "last_name": "Sutherland", "email": "stuartsutherland@gmail.com", "phone": "917-969-3802" }], 
                 "next_task": { "date": "June 09, 2019", "upcoming_task": "Site visit; Present proposal for HVAC upgrade work", 
                 "contractor": { 
                     "contractorid": 98349, "company_name": "XYZ Contracting" } 
@@ -152,7 +123,35 @@
                 ]
         },
         {
+            "id": 2,
+            "customercontact": {
+                "customerid": 1235,
+                "first-name": "Charles",
+                "last-name": "Xavier"
+            },
+            "address": {
+                "street": "1130 Applewood Rd.",
+                "city": "North Gardenia",
+                "state": "PA",
+                "postal-code": "19434",
+                "location": {
+                    "latitude": 34.34343,
+                    "longitude": -100.23243
+                }
+            },
+            "projecturl": "/projects/2",
+            "icon": {
+                "icontype": "home",
+                "color": "red"
+            }
+        },
+        {
             "id": 3,
+            "customercontact": {
+                "customerid": 1236,
+                "first-name": "Jean",
+                "last-name": "Grey"
+            },
             "address": {
                 "street": "64 Martin Luther King Drive",
                 "city": "Gainsville",
@@ -163,10 +162,18 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/3",
+            "projecturl": "/projects/3",
             "icon": {
                 "color": "red",
                 "icontype": "home"
+            }
+        },
+        {
+            "id": 4,
+            "customercontact": {
+                "customerid": 1237,
+                "first-name": "Bruce",
+                "last-name": "Banner"
             },
             "address": {
                 "street": "123 West Main Street",
@@ -178,7 +185,7 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/4",
+            "projecturl": "/projects/4",
             "icon": {
                 "color": "red",
                 "icontype": "home"
@@ -201,7 +208,7 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/5",
+            "projecturl": "/projects/5",
             "icon": {
                 "color": "red",
                 "icontype": "home"
@@ -224,7 +231,7 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/6",
+            "projecturl": "/projects/6",
             "icon": {
                 "color": "red",
                 "icontype": "home"
