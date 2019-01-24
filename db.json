@@ -104,7 +104,23 @@
             "icon": {
                 "icontype": "home",
                 "color": "red"
-            }
+            },
+            "contacts": [
+                { "contactid": 198273, "first_name": "Jean", "last_name": "Grey", "email": "darkphoenix@msn.com", "phone": "973-783-3848" }, 
+                { "contactid": 319827, "first_name": "Scott", "last_name": "Summers", "email": "cyclops@gmail.com", "phone": "917-969-3802" }], 
+                "next_task": { "date": "June 12, 2019", "upcoming_task": "Site visit; Present proposal for HVAC upgrade work", 
+                "contractor": { 
+                    "contractorid": 98349, "company_name": "XYZ Contracting" } 
+                }, 
+                "pearl_score": 721, 
+                "systems": [
+                    { "systemid": 1, "name": "Attic Insulation", "current_state": { "level": 3, "description": "R-57 Fiberglass - Loose Fill" }, "contractor_network_count": 25, "selected_contractor": 98349 }, 
+                    { "systemid": 2, "name": "Air Sealing", "current_state": { "level": 3, "description": "" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 3, "name": "Furnace", "current_state": { "level": 3, "description": "Gas central furnace - 80.0" }, "contractor_network_count": 5, "selected_contractor": null }, 
+                    { "systemid": 4, "name": "Air Conditioning", "current_state": { "level": 3, "description": "Central AC - 10.00" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
+                ]
         },
         {
             "id": 2,
@@ -127,7 +143,23 @@
             "icon": {
                 "icontype": "home",
                 "color": "red"
-            }
+            },
+            "contacts": [
+                { "contactid": 198273, "first_name": "Kitty", "last_name": "Pride", "email": "kittypride@msn.com", "phone": "973-783-3848" }, 
+                { "contactid": 319827, "first_name": "Charles", "last_name": "Xavier", "email": "professorx@gmail.com", "phone": "917-969-3802" }], 
+                "next_task": { "date": "June 09, 2019", "upcoming_task": "Site visit; Present proposal for HVAC upgrade work", 
+                "contractor": { 
+                    "contractorid": 98349, "company_name": "XYZ Contracting" } 
+                }, 
+                "pearl_score": 721, 
+                "systems": [
+                    { "systemid": 1, "name": "Attic Insulation", "current_state": { "level": 3, "description": "R-57 Fiberglass - Loose Fill" }, "contractor_network_count": 25, "selected_contractor": 98349 }, 
+                    { "systemid": 2, "name": "Air Sealing", "current_state": { "level": 3, "description": "" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 3, "name": "Furnace", "current_state": { "level": 3, "description": "Gas central furnace - 80.0" }, "contractor_network_count": 5, "selected_contractor": null }, 
+                    { "systemid": 4, "name": "Air Conditioning", "current_state": { "level": 3, "description": "Central AC - 10.00" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
+                ]
         },
         {
             "id": 3,
@@ -150,7 +182,23 @@
             "icon": {
                 "color": "red",
                 "icontype": "home"
-            }
+            },
+            "contacts": [
+                { "contactid": 198273, "first_name": "Emma", "last_name": "Frost", "email": "whitequeen@msn.com", "phone": "973-783-3848" }, 
+                { "contactid": 319827, "first_name": "Anna Marie", "last_name": "LeBeau", "email": "rogue@gmail.com", "phone": "917-969-3802" }], 
+                "next_task": { "date": "June 09, 2019", "upcoming_task": "Site visit; Present proposal for HVAC upgrade work", 
+                "contractor": { 
+                    "contractorid": 98349, "company_name": "XYZ Contracting" } 
+                }, 
+                "pearl_score": 721, 
+                "systems": [
+                    { "systemid": 1, "name": "Attic Insulation", "current_state": { "level": 3, "description": "R-57 Fiberglass - Loose Fill" }, "contractor_network_count": 25, "selected_contractor": 98349 }, 
+                    { "systemid": 2, "name": "Air Sealing", "current_state": { "level": 3, "description": "" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 3, "name": "Furnace", "current_state": { "level": 3, "description": "Gas central furnace - 80.0" }, "contractor_network_count": 5, "selected_contractor": null }, 
+                    { "systemid": 4, "name": "Air Conditioning", "current_state": { "level": 3, "description": "Central AC - 10.00" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
+                ]
         },
         {
             "id": 4,
@@ -173,7 +221,23 @@
             "icon": {
                 "color": "red",
                 "icontype": "home"
-            }
+            },
+            "contacts": [
+                { "contactid": 198273, "first_name": "Eric", "last_name": "Lehnsherr", "email": "magneto@msn.com", "phone": "973-783-3848" }, 
+                { "contactid": 319827, "first_name": "Raven", "last_name": "Darkholme", "email": "mystique@gmail.com", "phone": "917-969-3802" }], 
+                "next_task": { "date": "June 09, 2019", "upcoming_task": "Site visit; Present proposal for HVAC upgrade work", 
+                "contractor": { 
+                    "contractorid": 98349, "company_name": "XYZ Contracting" } 
+                }, 
+                "pearl_score": 721, 
+                "systems": [
+                    { "systemid": 1, "name": "Attic Insulation", "current_state": { "level": 3, "description": "R-57 Fiberglass - Loose Fill" }, "contractor_network_count": 25, "selected_contractor": 98349 }, 
+                    { "systemid": 2, "name": "Air Sealing", "current_state": { "level": 3, "description": "" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 3, "name": "Furnace", "current_state": { "level": 3, "description": "Gas central furnace - 80.0" }, "contractor_network_count": 5, "selected_contractor": null }, 
+                    { "systemid": 4, "name": "Air Conditioning", "current_state": { "level": 3, "description": "Central AC - 10.00" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
+                ]
         },
         {
             "id": 5,
@@ -196,7 +260,23 @@
             "icon": {
                 "color": "red",
                 "icontype": "home"
-            }
+            },
+            "contacts": [
+                { "contactid": 198273, "first_name": "Peter", "last_name": "Parker", "email": "spiderman@msn.com", "phone": "973-783-3848" }, 
+                { "contactid": 319827, "first_name": "Gwen", "last_name": "Stacey", "email": "spideysgirl@gmail.com", "phone": "917-969-3802" }], 
+                "next_task": { "date": "June 09, 2019", "upcoming_task": "Site visit; Present proposal for HVAC upgrade work", 
+                "contractor": { 
+                    "contractorid": 98349, "company_name": "XYZ Contracting" } 
+                }, 
+                "pearl_score": 721, 
+                "systems": [
+                    { "systemid": 1, "name": "Attic Insulation", "current_state": { "level": 3, "description": "R-57 Fiberglass - Loose Fill" }, "contractor_network_count": 25, "selected_contractor": 98349 }, 
+                    { "systemid": 2, "name": "Air Sealing", "current_state": { "level": 3, "description": "" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 3, "name": "Furnace", "current_state": { "level": 3, "description": "Gas central furnace - 80.0" }, "contractor_network_count": 5, "selected_contractor": null }, 
+                    { "systemid": 4, "name": "Air Conditioning", "current_state": { "level": 3, "description": "Central AC - 10.00" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
+                ]
         },
         {
             "id": 6,
@@ -219,7 +299,23 @@
             "icon": {
                 "color": "red",
                 "icontype": "home"
-            }
+            },
+            "contacts": [
+                { "contactid": 198273, "first_name": "Orstormoro", "last_name": "Monroe", "email": "lisachiapinelli@msn.com", "phone": "973-783-3848" }, 
+                { "contactid": 319827, "first_name": "Kurt", "last_name": "Wagner", "email": "mightcrawler@gmail.com", "phone": "917-969-3802" }], 
+                "next_task": { "date": "June 09, 2019", "upcoming_task": "Site visit; Present proposal for HVAC upgrade work", 
+                "contractor": { 
+                    "contractorid": 98349, "company_name": "XYZ Contracting" } 
+                }, 
+                "pearl_score": 721, 
+                "systems": [
+                    { "systemid": 1, "name": "Attic Insulation", "current_state": { "level": 3, "description": "R-57 Fiberglass - Loose Fill" }, "contractor_network_count": 25, "selected_contractor": 98349 }, 
+                    { "systemid": 2, "name": "Air Sealing", "current_state": { "level": 3, "description": "" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 3, "name": "Furnace", "current_state": { "level": 3, "description": "Gas central furnace - 80.0" }, "contractor_network_count": 5, "selected_contractor": null }, 
+                    { "systemid": 4, "name": "Air Conditioning", "current_state": { "level": 3, "description": "Central AC - 10.00" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 5, "name": "Water Heating", "current_state": { "level": 3, "description": "Gas less than 55 gals - 062" }, "contractor_network_count": 25, "selected_contractor": null }, 
+                    { "systemid": 6, "name": "Dishwasher", "current_state": { "level": 3, "description": "ENERGY STAR\\u00ae" }, "contractor_network_count": 25, "selected_contractor": null }
+                ]
         }
     ],
     "profile": {
