@@ -85,11 +85,6 @@
     "projects": [
         {
             "id": 1,
-            "customercontact": {
-                "customerid": 1234,
-                "first-name": "Kitty",
-                "last-name": "Pride"
-            },
             "address": {
                 "street": "970 Burnley Station Dr.",
                 "city": "Charlottesville",
@@ -124,11 +119,6 @@
         },
         {
             "id": 2,
-            "customercontact": {
-                "customerid": 1235,
-                "first-name": "Charles",
-                "last-name": "Xavier"
-            },
             "address": {
                 "street": "1130 Applewood Rd.",
                 "city": "North Gardenia",
@@ -163,11 +153,6 @@
         },
         {
             "id": 3,
-            "customercontact": {
-                "customerid": 1236,
-                "first-name": "Jean",
-                "last-name": "Grey"
-            },
             "address": {
                 "street": "64 Martin Luther King Drive",
                 "city": "Gainsville",
@@ -202,11 +187,6 @@
         },
         {
             "id": 4,
-            "customercontact": {
-                "customerid": 1237,
-                "first-name": "Bruce",
-                "last-name": "Banner"
-            },
             "address": {
                 "street": "123 West Main Street",
                 "city": "Somewheresville",
@@ -241,11 +221,6 @@
         },
         {
             "id": 5,
-            "customercontact": {
-                "customerid": 1237,
-                "first-name": "Peter",
-                "last-name": "Parker"
-            },
             "address": {
                 "street": "123 East Hampton Drive",
                 "city": "Nowheresville",
@@ -280,11 +255,6 @@
         },
         {
             "id": 6,
-            "customercontact": {
-                "customerid": 1238,
-                "first-name": "Peter",
-                "last-name": "Parker"
-            },
             "address": {
                 "street": "123 Spiderville",
                 "city": "Neighborhood",
