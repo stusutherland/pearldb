@@ -100,7 +100,7 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/1",
+            "projecturl": "/projects/1",
             "icon": {
                 "icontype": "home",
                 "color": "red"
@@ -123,7 +123,7 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/2",
+            "projecturl": "/projects/2",
             "icon": {
                 "icontype": "home",
                 "color": "red"
@@ -146,7 +146,7 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/3",
+            "projecturl": "/projects/3",
             "icon": {
                 "color": "red",
                 "icontype": "home"
@@ -169,7 +169,7 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/4",
+            "projecturl": "/projects/4",
             "icon": {
                 "color": "red",
                 "icontype": "home"
@@ -192,7 +192,7 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/5",
+            "projecturl": "/projects/5",
             "icon": {
                 "color": "red",
                 "icontype": "home"
@@ -215,7 +215,7 @@
                     "longitude": -100.23243
                 }
             },
-            "projecturl": "/project_details/6",
+            "projecturl": "/projects/6",
             "icon": {
                 "color": "red",
                 "icontype": "home"
